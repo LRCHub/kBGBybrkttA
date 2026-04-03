@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Ylang Ylang",
+  "base_artist": "FKJ、((( O )))",
+  "createdAt": "2026-04-03T04:22:44.386093Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ylang Ylang",
+      "artist": "lemon joy",
+      "has_synced": true,
+      "path": "select/01_Ylang_Ylang_lemon_joy.lrc"
+    }
+  ]
+}
